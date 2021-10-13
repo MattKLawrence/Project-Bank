@@ -1,12 +1,12 @@
 # Project-Bank
 
-<ITA>
+<h1>ITA</h1> <br>
 Vi porto un semplice progetto in java che mostra come si effetua un prelievi o un deposito su un conto corrente bancario!
 Per qualsiasi supporto vi consiglio di
 unirvi nel discord della mia società "https://discord.gg/j4rVsMHPuG"
 Sarò felice di aiutarvi. <br>
 
-<ENG>
+<h1>ENG</h1> <br>
 I bring you a simple java project showing how to make a withdrawal or a deposit on a bank account!
 For any support I suggest you
 join the discord of my company "https://discord.gg/j4rVsMHPuG".
